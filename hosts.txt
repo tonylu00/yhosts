@@ -9,6 +9,9 @@
 #miwifi
 127.0.0.1 XiaoQiang
 @direct/official
+#unity ads
+127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 unityads.unity3d.com
 #Flash
 127.0.0.1 geo2.adobe.com
 127.0.0.1 get3.adobe.com
